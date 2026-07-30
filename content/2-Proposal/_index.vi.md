@@ -17,7 +17,7 @@ Trong quá trình tham gia chương trình, việc theo dõi kết quả thử t
 ## 3. Kiến trúc giải pháp
 Dự án sử dụng kiến trúc serverless với API Gateway làm cổng truy cập, Lambda xử lý logic nghiệp vụ, DynamoDB lưu trữ dữ liệu và CloudWatch để giám sát. Người dùng có thể gửi dữ liệu qua API POST và lấy bảng xếp hạng qua API GET. Kiến trúc này giúp tập trung vào logic ứng dụng thay vì quản lý server.
 
-![Daily Challenge Score API architecture](/images/2-Proposal/Architecture.png)
+![Daily Challenge Score API architecture](public/images/2-Proposal/Architecture.png)
 
 ### Các dịch vụ AWS được sử dụng
 - Amazon API Gateway: tạo API REST để expose chức năng cho client.

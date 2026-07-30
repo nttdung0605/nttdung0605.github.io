@@ -31,7 +31,7 @@ Client (Mobile/Web) → Amazon API Gateway → AWS Lambda → Amazon DynamoDB
 
 Lambda also sends logs to Amazon CloudWatch for monitoring and troubleshooting.
 
-![Daily Challenge Score API architecture](/images/2-Proposal/Architecture.png)
+![Daily Challenge Score API architecture](public/images/2-Proposal/Architecture.png)
 
 #### AWS Services Used
 - **Amazon API Gateway**: Exposes secure RESTful API endpoints.
