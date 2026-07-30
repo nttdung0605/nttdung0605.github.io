@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Thông tin dưới đây chỉ mang tính tham khảo. Vui lòng **không sao chép nguyên văn** vào báo cáo của bạn, bao gồm cả cảnh báo này.
-{{% /notice %}}
 
 # FCAJ x Agentic AI Build Week: Show Up. Build. Pitch. WIN!
 
